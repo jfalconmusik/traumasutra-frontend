@@ -1,7 +1,18 @@
+body {
+  background-color: black;
+}
+
 .App {
   text-align: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-color: black;
+  min-height: 100vh;
+  background-repeat: no-repeat, repeat;
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: auto; /* Resize the background image to cover the entire container */
 }
 
 .App-MainLogo {
@@ -43,7 +54,7 @@
   justify-content: center;
 }
 
-.logos { 
+.logos {
   display: flex;
   justify-content: space-evenly;
   padding-top: 50px;
@@ -81,4 +92,4 @@
   100% {
     transform: scale(1, 1);
   }
-  }
+}

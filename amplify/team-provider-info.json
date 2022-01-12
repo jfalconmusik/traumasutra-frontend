@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-traumasutra-dev-141320-authRole",
+      "UnauthRoleArn": "arn:aws:iam::008421350711:role/amplify-traumasutra-dev-141320-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::008421350711:role/amplify-traumasutra-dev-141320-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-traumasutra-dev-141320-deployment",
+      "UnauthRoleName": "amplify-traumasutra-dev-141320-unauthRole",
+      "StackName": "amplify-traumasutra-dev-141320",
+      "StackId": "arn:aws:cloudformation:us-east-1:008421350711:stack/amplify-traumasutra-dev-141320/edda66a0-731a-11ec-a346-0e6548286fa1",
+      "AmplifyAppId": "d3mt68u6emj7it"
+    }
+  }
+}
