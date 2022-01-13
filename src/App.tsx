@@ -128,7 +128,7 @@ function App() {
       {siphoned?.map((song) => {
         return (
           <div>
-            <p>Name: {song && song.title}</p>
+            <p>{song && song.title}</p>
 
             <audio controls>
               <source src={`${song && song.url}`} type="audio/mpeg" />
