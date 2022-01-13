@@ -16,14 +16,6 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER I
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-// access key id AKIAQD5PTTU33XI35REM
-
-// secret access key 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
-
-// AKIAQD5PTTU36UIGGGUC
-
-// RoYL1gtfx+qqc7sqxGzJwUQtrOpIipKcb/YxRuB+
-
 import logo from "./assets/traumasutra.png";
 import "./App.css";
 import React, { useState, useEffect } from "react";
